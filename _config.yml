@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "IT Blog"
+title: "IT Blog"
+description: "IT Blog for Personal Interest"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://wfshun27.github.io/blog/
